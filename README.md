@@ -1,2 +1,2 @@
 # JungleRun
-Single 
+Single Player JS Game
